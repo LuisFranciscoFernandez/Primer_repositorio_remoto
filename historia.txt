@@ -3,3 +3,5 @@ Francisco tiene 31 años
 Naci en Barcelona
 
 Hoy hablaremos de su historia
+
+Hoy esta aprendiendo a usar git 
